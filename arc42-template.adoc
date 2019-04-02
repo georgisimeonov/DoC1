@@ -3,7 +3,8 @@
 //
 // ====================================
 
-= image:arc42-logo.png[arc42] Template
+include::mage/arc42-logo.png[arc42] 
+Template
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Table of Contents
 
